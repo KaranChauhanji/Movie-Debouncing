@@ -2,6 +2,9 @@
 
 This web application utilizes the OMDB API to allow users to search for movies. The search functionality is enhanced with debouncing, optimizing the performance by delaying API requests until the user pauses typing, thereby reducing unnecessary network traffic.
 
+## Experience Yourself 
+Link - https://moviedebouncing13.netlify.app/
+
 ## Technologies Used
 - HTML
 - CSS
